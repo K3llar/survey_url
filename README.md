@@ -1,8 +1,5 @@
 # CLI application to check urls capability
 
-## Estimated time of developing
-About 6 hours (spent most time to make tests)
-
 ## How to use
 `poetry install`
 
